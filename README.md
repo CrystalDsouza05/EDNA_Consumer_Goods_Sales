@@ -39,7 +39,7 @@ This dashboard provides a comprehensive overview of U.S. consumer goods sales in
 **Why This Dashboard is Useful:**
 It allows for quick comparisons across multiple dimensions, helping businesses optimize distribution strategies, inventory planning, and regional marketing efforts
 
-**Snap of Dashboard Page**
+**Snapshots of Dashboard Page**
 ![image](https://github.com/user-attachments/assets/4a6664e6-eb2a-4067-938c-9f6e54123c43)
 
 **Image of Data Model**
