@@ -1,5 +1,4 @@
 # Consumer Goods Sales - Enterprise DNA
-This dashboard was created as part of the Dashboarding and Data Visualisation Intensive
 
 ## 📌 About this Dashboard
 This dashboard provides a comprehensive overview of U.S. consumer goods sales in 2016 and 2015, covering multiple dimensions like distribution channels, warehouses, regions, and sales trends over time.
