@@ -41,3 +41,6 @@ It allows for quick comparisons across multiple dimensions, helping businesses o
 
 **Snap of Dashboard Page**
 ![image](https://github.com/user-attachments/assets/4a6664e6-eb2a-4067-938c-9f6e54123c43)
+
+**Image of Data Model**
+![image](https://github.com/user-attachments/assets/c8ebaa4b-ffbc-45bb-83f2-4da1fa03222b)
